@@ -1,0 +1,5 @@
+pickle==3.9.12
+pandas==1.5.3 #for data manipulation
+numpy==1.23.5 #for numerical operations
+matplotlib==3.7.1 #for plotting
+seaborn==0.12.2 #for plotting
